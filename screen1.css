@@ -1,0 +1,11 @@
+.contact-container{
+width:250px; height: 300px; padding:10px; border:1px solid black;
+margin:0 10px 10px 0; position:relative;
+ float:left; font-family:sans-serif; 
+ color:black; 
+ background-color:#eee;
+}
+header { margin-bottom:10px; }
+header:after { content:""; display:block; height:0; visibility:hidden; clear:both; font-size:0; line-height:0; }
+
+
